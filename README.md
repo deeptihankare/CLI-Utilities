@@ -6,13 +6,13 @@ Time spent: [12 hours]
 
 Completed:
 
- Required: echo.js prints the first argument to stdout
- Required: cat.js prints the contents of the first argument to stdout
- Required: touch.js updates the modified date of the first argument
- Required: ls.js recursively lists the files of the first argument
- Required: mkdir.js create a directory at the first argument
- Required: rm.js deletes any file or directory at the first argument
-[] Optional: ln.js creates a symlink from the second argument to the first argument
+ Done: echo.js prints the first argument to stdout
+ Done: cat.js prints the contents of the first argument to stdout
+ Done: touch.js updates the modified date of the first argument
+ Done: ls.js recursively lists the files of the first argument
+ Done: mkdir.js create a directory at the first argument
+ Done: rm.js deletes any file or directory at the first argument
+[No] Optional: ln.js creates a symlink from the second argument to the first argument
 
 
 Please find attached walkthorugh .gif
